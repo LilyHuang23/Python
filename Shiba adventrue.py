@@ -106,6 +106,8 @@ print()
 
 print("\U0001F923 \U0001F923 \U0001F923 \U0001F923 \U0001F923 Smile up!")
 print("test")
+print("haha")
+
 
 import datetime
 x = datetime.datetime.now()
