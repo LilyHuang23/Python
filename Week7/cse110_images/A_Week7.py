@@ -1,6 +1,5 @@
 '''
 file: Week 7 assignment
-
 '''
 from PIL import Image
 print("correctly")
