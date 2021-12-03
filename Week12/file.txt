@@ -1,0 +1,5 @@
+Line 1 of file.
+Line 2 of file.
+Line 3   of file.
+   Line 4 of file.
+Line 5 is last.
